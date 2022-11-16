@@ -38,7 +38,7 @@ function Top() {
         </div>
       )}
       {content && (
-        <div data-aos="fade" className="isiTop max-[640px]:flex-col-reverse max-[640px]:w-11/12 max-[640px]:justify-center max-[640px]:mt-8 max-[640px]:h-fit">
+        <div data-aos="fade" className="isiTop max-[640px]:flex-col-reverse max-[640px]:w-11/12 max-[640px]:justify-center max-[640px]:mt-8 max-[640px]:h-max">
           <div className="left max-[640px]:w-full max-[640px]:h-screen ">
             <h1 className="title text-4xl font-bold max-[640px]:text-xl ">
               Selamat Datang Di <br/>

@@ -9,12 +9,12 @@ function Join() {
     AOS.init();
   }, [])
   return (
-    <div data-aos="fade-up" className="join">
-      <h1 className="titleJoin text-4xl font-bold">Alasan Gabung Dengan Kami</h1>
-      <div className="card" data-aos="fade-up">
+    <div data-aos="fade-up" className="join max-tablet:w-11/12">
+      <h1 className="titleJoin text-4xl font-bold max-[640px]:text-xl">Alasan Gabung Dengan Kami</h1>
+      <div className="card max-tablet:w-full" data-aos="fade-up">
         {DataJoin.map((datas, index) => {
           return (
-            <div className="isicard" key={index}>
+            <div className="isicard max-tablet:grid-cols-1" key={index}>
               <img src={datas.src} className="gambarjoin" />
               <h1 className="number font-bold">{datas.number}</h1>
               <h2 className="judulcard font-bold">{datas.judul}</h2>
