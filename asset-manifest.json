@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ampoe/static/css/main.45243a79.css",
+    "main.js": "/ampoe/static/js/main.4c1c5be2.js",
+    "static/js/787.ff9b5cb4.chunk.js": "/ampoe/static/js/787.ff9b5cb4.chunk.js",
+    "static/media/bg1.png": "/ampoe/static/media/bg1.f637b8137b4b0c618307.png",
+    "index.html": "/ampoe/index.html",
+    "main.45243a79.css.map": "/ampoe/static/css/main.45243a79.css.map",
+    "main.4c1c5be2.js.map": "/ampoe/static/js/main.4c1c5be2.js.map",
+    "787.ff9b5cb4.chunk.js.map": "/ampoe/static/js/787.ff9b5cb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45243a79.css",
+    "static/js/main.4c1c5be2.js"
+  ]
+}
