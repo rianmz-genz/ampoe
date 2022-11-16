@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ampoe/static/css/main.f4cd3256.css",
-    "main.js": "/ampoe/static/js/main.d97f1970.js",
+    "main.css": "/ampoe/static/css/main.f09520ba.css",
+    "main.js": "/ampoe/static/js/main.a66c122b.js",
     "static/js/787.ff9b5cb4.chunk.js": "/ampoe/static/js/787.ff9b5cb4.chunk.js",
     "static/media/bg1.png": "/ampoe/static/media/bg1.f637b8137b4b0c618307.png",
     "index.html": "/ampoe/index.html",
-    "main.f4cd3256.css.map": "/ampoe/static/css/main.f4cd3256.css.map",
-    "main.d97f1970.js.map": "/ampoe/static/js/main.d97f1970.js.map",
+    "main.f09520ba.css.map": "/ampoe/static/css/main.f09520ba.css.map",
+    "main.a66c122b.js.map": "/ampoe/static/js/main.a66c122b.js.map",
     "787.ff9b5cb4.chunk.js.map": "/ampoe/static/js/787.ff9b5cb4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4cd3256.css",
-    "static/js/main.d97f1970.js"
+    "static/css/main.f09520ba.css",
+    "static/js/main.a66c122b.js"
   ]
 }
