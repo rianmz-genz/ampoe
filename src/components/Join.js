@@ -16,9 +16,9 @@ function Join() {
           return (
             <div className="isicard max-tablet:grid-cols-1" key={index}>
               <img src={datas.src} className="gambarjoin" />
-              <h1 className="number font-bold">{datas.number}</h1>
+              <h1 className="number text-3xl font-bold">{datas.number}</h1>
               <h2 className="judulcard font-bold">{datas.judul}</h2>
-              <p className="deskcard w-3/4">{datas.desk}</p>
+              <p className="deskcard text-xs w-3/4">{datas.desk}</p>
             </div>
           );
         })}
