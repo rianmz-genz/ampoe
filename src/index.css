@@ -99,7 +99,7 @@
   }
   .navbar{
     position: fixed;
-    width: 100%;
+    width: 100vw;
     background-color: #fff;
     
     z-index: 2;
@@ -319,6 +319,14 @@
       bottom: -5rem;
       width: 10rem;
       height: 10rem;
+    }
+    .right{
+      position: relative;
+      margin-top: -5rem;
+      width: 100%;
+      height: 100%;
+      transform: scale(1.5);
+      animation-delay: 3s;
     }
     .burger{
       cursor: pointer;
